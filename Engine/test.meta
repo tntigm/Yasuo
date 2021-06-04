@@ -1,0 +1,9 @@
+<engine>
+	<scene id="0" name="test">
+		<object name="Test" position="0 0 0">
+			<ability type="Sprite" data="t.png" />
+		</object>
+	</scene>
+	<scene id="1" name="test_2">
+	</scene>
+</engine>
